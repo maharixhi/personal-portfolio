@@ -63,7 +63,7 @@ export const Banner = () => {
                     I am enthusiastic about web development and have hands-on experience working with technologies such as React, Node.js, JavaScript, HTML, and CSS. I've crafted Few web projects.<br />
                     As I continue my B.Tech program and explore the dynamic field of computer science and engineering, I am excited to embrace new challenges and opportunities. My goal is to leverage my skills, experiences, and determination to make a positive impact in the world of web development and beyond.<br />
                     Thank you for visiting my portfolio, and feel free to reach out if you'd like to connect or collaborate on exciting projects.</p>
-                  <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
+                  <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={24} /></button>
                 </div>}
             </TrackVisibility>
           </Col>
