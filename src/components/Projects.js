@@ -11,14 +11,16 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Personal Portfolio",
+      description: "ReactJs and Frontend",
       imgUrl: projImg1,
+      
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Simon's Game",
+      description: "Javascript and JQuery",
       imgUrl: projImg2,
+      
     },
     {
       title: "Amazon Clone",
@@ -30,16 +32,19 @@ export const Projects = () => {
       title: "Business Startup",
       description: "Design & Development",
       imgUrl: projImg1,
+      
     },
     {
       title: "Business Startup",
       description: "Design & Development",
       imgUrl: projImg2,
+     
     },
     {
       title: "Business Startup",
       description: "Design & Development",
       imgUrl: projImg3,
+      
     },
   ];
 
