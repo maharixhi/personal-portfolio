@@ -28,24 +28,6 @@ export const Projects = () => {
       imgUrl: projImg3,
       sourceLink: "https://github.com/maharixhi/Amazon_Clone",
     },
-    {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg1,
-      
-    },
-    {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg2,
-     
-    },
-    {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg3,
-      
-    },
   ];
 
   return (
