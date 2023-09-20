@@ -14,12 +14,14 @@ export const Projects = () => {
       title: "Personal Portfolio",
       description: "ReactJs and Frontend",
       imgUrl: projImg1,
+      sourceLink:"https://github.com/maharixhi/personal-portfolio",
       
     },
     {
       title: "Simon's Game",
       description: "Javascript and JQuery",
       imgUrl: projImg2,
+      sourceLink:"https://github.com/maharixhi/simon-s-game",
       
     },
     {
